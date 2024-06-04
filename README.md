@@ -1,0 +1,5 @@
+Fingerprint preproceeisng:
+Normalization
+Segmentation
+Binarization
+Thinning
